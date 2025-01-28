@@ -11,6 +11,7 @@ import {
     freelancervisa,
     golfkraft,
     nathan,
+    kibsons,
     accounting,
     youtube,
     javascript,
@@ -19,6 +20,7 @@ import {
     web3,
     ahmed,
     metaverse,
+    kibsonss,
     sardartour,
     premier,
     clickdiscount,
@@ -153,19 +155,19 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Web Developer Intern",
-      company_name: "Pulp Consultants",
-      icon: pulp,
-      iconBg: "#383E56",
-      date: "Aug 2020 - Dec 2020",
-      points: [
-        "Developed and maintained WordPress front-ends for business websites, ensuring consistent branding and user experience.",
-        "Built mobile-responsive React websites with optimal user experience and design principles.",
-        "Conducted regular website maintenance to ensure continued functionality and usability.",
-        "Collaborated cross-functionally to deliver exceptional websites exceeding client expectations.",
-      ],
-    },
+    // {
+    //   title: "Web Developer Intern",
+    //   company_name: "Pulp Consultants",
+    //   icon: pulp,
+    //   iconBg: "#383E56",
+    //   date: "Aug 2020 - Dec 2020",
+    //   points: [
+    //     "Developed and maintained WordPress front-ends for business websites, ensuring consistent branding and user experience.",
+    //     "Built mobile-responsive React websites with optimal user experience and design principles.",
+    //     "Conducted regular website maintenance to ensure continued functionality and usability.",
+    //     "Collaborated cross-functionally to deliver exceptional websites exceeding client expectations.",
+    //   ],
+    // },
     // {
     //   title: "Web Developer(Contract)",
     //   company_name: "Hasbil Consulting",
@@ -179,25 +181,25 @@ import {
     //     "Utilized data-driven insights to improve business growth.",
     //   ],
     // },
-    {
-      title: "Front End Developer",
-      company_name: "Corecut Solutions",
-      icon: corecut,
-      iconBg: "#383E56",
-      date: "Dec 2020 - Dec 2021",
-      points: [
-        "Developed websites using React.js, Bootstrap, and custom JavaScript.",
-        "Designed responsive websites with intuitive UIs.",
-        "Collaborated cross-functionally to meet clients'business needs.",
-        "Optimized website performance for faster rendering and better user experience.",
-      ],
-    },
+    // {
+    //   title: "Front End Developer",
+    //   company_name: "Corecut Solutions",
+    //   icon: corecut,
+    //   iconBg: "#383E56",
+    //   date: "Aug 2020 - Dec 2021",
+    //   points: [
+    //     "Developed websites using React.js, Bootstrap, and custom JavaScript.",
+    //     "Designed responsive websites with intuitive UIs.",
+    //     "Collaborated cross-functionally to meet clients'business needs.",
+    //     "Optimized website performance for faster rendering and better user experience.",
+    //   ],
+    // },
     {
       title: "Web Developer (Frontend)",
       company_name: 'Expedite Design',
       icon: expedite,
       iconBg: "#E6DEDD",
-      date: "Dec 2021 - Apr 2023",
+      date: "Aug 2020 - May 2023",
       points: [
         "Developed mobile-responsive UIs for Web3 websites using WordPress, Webflow, and custom development.",
         "Collaborated with clients to develop websites that met their requirements.",
@@ -210,7 +212,7 @@ import {
       company_name: 'Nathan Digital',
       icon: nathan,
       iconBg: "#E6DEDD",
-      date: "June 2023 - Present",
+      date: "May 2023 - Apr 2024",
       points: [
         "Developed mobile responsive websites on React and Next JS.",
         "Collaborated with backend developers to ensure proper fetching of API's in the site.",
@@ -218,6 +220,19 @@ import {
         "Added smooth interactions & animations on the site with my creativity on full display.",
       ],
     },
+    {
+      title: "Senior Frontend Developer",
+      company_name: 'Kibsons International',
+      icon: kibsons,
+      iconBg: "#E6DEDD",
+      date: "Apr 2024 - Present",
+      points: [
+        "Led the migration to Next.js, boosting performance by 10%",
+        "Implemented a highly engaging custom gift box feature,  achieving strong user engagement and popularity.",
+        "Proposed and developed an innovative eGift card feature, allowing users to easily send digital gift cards",
+      ],
+    },
+    
   ];
   
   const testimonials = [
@@ -268,6 +283,30 @@ import {
       ],
       image: metaverse,
       web_link:'https://metaversemadness.web.app/',
+      category:'reactjs,nextjs,all',
+      source_code_link: "https://github.com/",
+    },
+
+    {
+      name: "Kibsons International",
+      description:
+        "Kibsons International has grown to occupy a pre-eminent position in the fresh fruits, vegetables, meat and poultry industry in the UAE.",
+      tags: [
+        {
+          name: "NextJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ReactJS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "ECommerce",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: kibsonss,
+      web_link:'https://kibsons.com/en/',
       category:'reactjs,nextjs,all',
       source_code_link: "https://github.com/",
     },

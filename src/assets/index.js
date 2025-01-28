@@ -12,6 +12,7 @@ import metaverse from "./metaverse.png";
 import clublabgolf from "./clublabgolf.png";
 import a51 from "./a51.png";
 import golfkraft from "./golfkraft.png";
+import kibsonss from "./kibsonss.jpeg";
 import startupdxb from "./startupdxb.png";
 import menu from "./menu.svg";
 import portfoliosnap from './portfoliosnap.png'
@@ -61,6 +62,7 @@ import meta from "./company/meta.png";
 import hasbil from "./company/hasbil.png";
 import corecut from "./company/corecut.png";
 import nathan from "./company/nathan.png";
+import kibsons from "./company/kibsons.png";
 import expedite from "./company/expedite.png";
 import shopify from "./company/shopify.png";
 import pulp from "./company/pulp.png";
@@ -138,4 +140,6 @@ export {
   portfoliosnap,
   movieflix,
   mobilestore,
+  kibsons,
+  kibsonss
 };
