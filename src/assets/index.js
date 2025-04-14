@@ -11,6 +11,7 @@ import zephyr from './zephyr.jpg'
 import metaverse from "./metaverse.png";
 import clublabgolf from "./clublabgolf.png";
 import a51 from "./a51.png";
+import oia from "./oia.jpeg";
 import golfkraft from "./golfkraft.png";
 import kibsonss from "./kibsonss.jpeg";
 import startupdxb from "./startupdxb.png";
@@ -141,5 +142,6 @@ export {
   movieflix,
   mobilestore,
   kibsons,
-  kibsonss
+  kibsonss,
+  oia
 };

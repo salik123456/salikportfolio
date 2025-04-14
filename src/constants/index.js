@@ -18,6 +18,7 @@ import {
     typescript,
     firebase,
     web3,
+    oia,
     ahmed,
     metaverse,
     kibsonss,
@@ -287,17 +288,16 @@ import {
       source_code_link: "https://github.com/",
     },
 
+
+
     {
-      name: "Kibsons International",
+      name: "Kibsons  (Revamp)",
       description:
         "Kibsons International has grown to occupy a pre-eminent position in the fresh fruits, vegetables, meat and poultry industry in the UAE.",
       tags: [
+       
         {
-          name: "NextJS",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "ReactJS",
+          name: "Next JS",
           color: "green-text-gradient",
         },
         {
@@ -306,10 +306,12 @@ import {
         },
       ],
       image: kibsonss,
-      web_link:'https://kibsons.com/en/',
+      web_link:'https://kibs.vercel.app/en',
       category:'reactjs,nextjs,all',
       source_code_link: "https://github.com/",
     },
+
+
     {
       name: "Club Lab Golf",
       description:
@@ -333,6 +335,29 @@ import {
       category:'reactjs,nextjs,all',
       // source_code_link: "https://github.com/salik123456",
     },
+
+
+    {
+      name: "Kibsons International",
+      description:
+        "Kibsons International has grown to occupy a pre-eminent position in the fresh fruits, vegetables, meat and poultry industry in the UAE.",
+      tags: [
+       
+        {
+          name: "ReactJS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "ECommerce",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: kibsonss,
+      web_link:'https://kibsons.com/en/',
+      category:'reactjs,all',
+      source_code_link: "https://github.com/",
+    },
+  
     {
       name: "Zephyr-Real Estate",
       description:
@@ -398,7 +423,8 @@ import {
         },
       ],
       image: startupdxb,
-      web_link:'https://startup-dxb.devnhr.com/',
+      // web_link:'https://startup-dxb.devnhr.com/',
+      web_link:'https://startupdxb.ae/',
       category:'reactjs,nextjs,all',
       source_code_link: "https://github.com/",
     },
@@ -573,6 +599,29 @@ import {
       category:'wordpress,all',
       web_link:'https://freelancervisa.com'
     },
+
+    {
+      name: "Oia Properties",
+      description:
+        "Oia Properties is a leading, award winning real estate agency operating in Abu Dhabi and Dubai, specializing in the sale and rental of residential properties",
+      tags: [
+        {
+          name: "Next",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: oia,
+      category:'reactjs,all,next',
+      web_link:'https://oia-properties.vercel.app/',
+    },
     {
       name: "Premier Logo Designs",
       description:
@@ -639,7 +688,7 @@ import {
       image: accounting,
       category:'reactjs,next,all',
       source_code_link: "https://github.com/",
-      web_link:'https://accounting-web.devnhr.com/'
+      web_link:'https://www.nathanaccounting.ae/'
     },
     {
       name: "MovieFlix",
@@ -707,7 +756,7 @@ import {
       ],
       image: logodesignscenter,
       category:'custom,all',
-      web_link:'https://logodesignscenter.com/',
+      web_link:'https://logoin30minutes.com/home.php',
     },
     {
       name: "ECommerce Store",
