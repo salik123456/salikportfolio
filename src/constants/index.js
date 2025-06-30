@@ -200,9 +200,9 @@ import {
       company_name: 'Expedite Design',
       icon: expedite,
       iconBg: "#E6DEDD",
-      date: "Aug 2020 - May 2023",
+      date: "Aug 2019 - May 2022",
       points: [
-        "Developed mobile-responsive UIs for Web3 websites using WordPress, Webflow, and custom development.",
+        "Developed mobile-responsive UIs for Web3 websites using React, WordPress, Webflow, and custom development.",
         "Collaborated with clients to develop websites that met their requirements.",
         "Implemented custom functionality to enhance website usability.",
         "Provided ongoing website maintenance and support to meet clients' evolving needs.",
@@ -213,7 +213,7 @@ import {
       company_name: 'Nathan Digital',
       icon: nathan,
       iconBg: "#E6DEDD",
-      date: "May 2023 - Apr 2024",
+      date: "May 2022 - Apr 2024",
       points: [
         "Developed mobile responsive websites on React and Next JS.",
         "Collaborated with backend developers to ensure proper fetching of API's in the site.",
@@ -336,7 +336,51 @@ import {
       // source_code_link: "https://github.com/salik123456",
     },
 
-
+  {
+      name: "Zephyr-Real Estate",
+      description:
+        "Dive into a world of comfort and convenience as we connect you with the finest hotels,ensuring a perfect gateway tailored to your preferences.",
+      tags: [
+        {
+          name: "NextJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ReactJS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Real Estate",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: zephyr,
+      web_link:'https://zephyr-sigma-one.vercel.app/',
+      category:'reactjs,nextjs,all',
+      // source_code_link: "https://github.com/salik123456",
+    },
+     {
+      name: "Oia Properties",
+      description:
+        "Oia Properties is a leading, award winning real estate agency operating in Abu Dhabi and Dubai, specializing in the sale and rental of residential properties",
+      tags: [
+        {
+          name: "Nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Real Estate",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: oia,
+      category:'reactjs,all,next',
+      web_link:'https://oia-properties.vercel.app/',
+    },
     {
       name: "Kibsons International",
       description:
@@ -358,29 +402,7 @@ import {
       source_code_link: "https://github.com/",
     },
   
-    {
-      name: "Zephyr-Real Estate",
-      description:
-        "Dive into a world of comfort and convenience as we connect you with the finest hotels,ensuring a perfect gateway tailored to your preferences.",
-      tags: [
-        {
-          name: "NextJS",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "ReactJS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Tailwind CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: zephyr,
-      web_link:'https://zephyr-sigma-one.vercel.app/',
-      category:'reactjs,nextjs,all',
-      // source_code_link: "https://github.com/salik123456",
-    },
+  
     {
       name: "Golf Kraft",
       description:
@@ -428,29 +450,7 @@ import {
       category:'reactjs,nextjs,all',
       source_code_link: "https://github.com/",
     },
-    {
-      name: "GPT3 AI",
-      description:
-        "A modern website of GPT3, which is an autoregressive language model released in 2020 that uses deep learning to produce human-like text.",
-      tags: [
-        {
-          name: "ReactJS",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Tailwind CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: gpt3,
-      web_link:'https://kaleidoscopic-caramel-879367.netlify.app/',
-      category:'reactjs,all',
-      source_code_link: "https://github.com/",
-    },
+ 
 
     {
       name: "Dynamic Freelancer",
@@ -475,39 +475,7 @@ import {
       category:'reactjs,all,next',
       source_code_link: "https://github.com/",
     },
-
-    {
-      name: "Youtube Clone",
-      description:
-        "YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.",
-      tags: [
-        {
-          name: "ReactJS",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "Rapid API",
-          color: "blue-text-gradient",
-        },
-      ],
-      image: youtube,
-      category:'reactjs,all',
-      web_link:'https://merry-dragon-35c6ee.netlify.app/',
-      source_code_link: "https://github.com/",
-    },
-    
-
-
-
-    {
+  {
       name: "Cyberstella",
       description:
         "Cyberstella's story is built upon a core concept, which is then expanded and given life by our community's NFTs.The idea is to generate a conceptual IP, like a multiverse.",
@@ -554,30 +522,7 @@ import {
       category:'wordpress,all',
       // source_code_link: "https://github.com/",
     },
-    
-    {
-      name: "Blockship",
-      description:
-        "Blockship is a global community by Xord for blockchain enthusiasts, with an aim to empower people to think about innovation in blockchain.",
-      tags: [
-        {
-          name: "WordPress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Oxygen Builder",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: blockshipimg,
-      category:'wordpress,all',
-      web_link:'https://blockship.club'
-    },
-    {
+      {
       name: "Freelancer Visa",
       description:
         "FreelancerVisa.com is the leading On shore freelancing platform in the UAE. Apply your Freelance Visa in Dubai in just few clicks. We are also licensed by the ministry of labor.",
@@ -600,28 +545,7 @@ import {
       web_link:'https://freelancervisa.com'
     },
 
-    {
-      name: "Oia Properties",
-      description:
-        "Oia Properties is a leading, award winning real estate agency operating in Abu Dhabi and Dubai, specializing in the sale and rental of residential properties",
-      tags: [
-        {
-          name: "Next",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: oia,
-      category:'reactjs,all,next',
-      web_link:'https://oia-properties.vercel.app/',
-    },
+   
     {
       name: "Premier Logo Designs",
       description:
@@ -644,6 +568,85 @@ import {
       category:'custom,all',
       web_link:'https://premierlogodesigns.com/',
     },
+       {
+      name: "GPT3 AI",
+      description:
+        "A modern website of GPT3, which is an autoregressive language model released in 2020 that uses deep learning to produce human-like text.",
+      tags: [
+        {
+          name: "ReactJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gpt3,
+      web_link:'https://kaleidoscopic-caramel-879367.netlify.app/',
+      category:'reactjs,all',
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Youtube Clone",
+      description:
+        "YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.",
+      tags: [
+        {
+          name: "ReactJS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Rapid API",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: youtube,
+      category:'reactjs,all',
+      web_link:'https://merry-dragon-35c6ee.netlify.app/',
+      source_code_link: "https://github.com/",
+    },
+    
+
+
+
+  
+    
+    // {
+    //   name: "Blockship",
+    //   description:
+    //     "Blockship is a global community by Xord for blockchain enthusiasts, with an aim to empower people to think about innovation in blockchain.",
+    //   tags: [
+    //     {
+    //       name: "WordPress",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Oxygen Builder",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "CSS",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: blockshipimg,
+    //   category:'wordpress,all',
+    //   web_link:'https://blockship.club'
+    // },
+  
     {
       name: "AI Summarizer",
       description:
@@ -783,28 +786,28 @@ import {
     },
     
   
-    {
-      name: "Sardar Tour",
-      description:
-        "Plan your trip with our travel experts. Our professional advisors can craft your perfect itinerary. We're offering Customized Tours anywhere in Pakistan as per your schedule.",
-      tags: [
-        {
-          name: "WordPress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: sardartour,
-      category:'wordpress,all',
-      web_link:'https://sardartour.com',
-    },
+    // {
+    //   name: "Sardar Tour",
+    //   description:
+    //     "Plan your trip with our travel experts. Our professional advisors can craft your perfect itinerary. We're offering Customized Tours anywhere in Pakistan as per your schedule.",
+    //   tags: [
+    //     {
+    //       name: "WordPress",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "JavaScript",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "CSS",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: sardartour,
+    //   category:'wordpress,all',
+    //   web_link:'https://sardartour.com',
+    // },
     // {
     //   name: "Expedite Design",
     //   description:
@@ -898,28 +901,28 @@ import {
       web_link:'https://concordium.com',
     },
 
-    {
-      name: "Metadot",
-      description:
-      "Metadot is a one-stop crypto wallet in the Polkadot Ecosystem that provides maximum support for the users of every domain.",
-      tags: [
-        {
-          name: "WordPress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Elementor Builder",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: metadot,
-      category:'wordpress,all',
-      web_link:'https://metadot.app',
-    },
+    // {
+    //   name: "Metadot",
+    //   description:
+    //   "Metadot is a one-stop crypto wallet in the Polkadot Ecosystem that provides maximum support for the users of every domain.",
+    //   tags: [
+    //     {
+    //       name: "WordPress",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Elementor Builder",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "CSS",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: metadot,
+    //   category:'wordpress,all',
+    //   web_link:'https://metadot.app',
+    // },
 
 
     {
